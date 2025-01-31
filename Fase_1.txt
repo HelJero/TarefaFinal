@@ -1,0 +1,13 @@
+Fase 1:
+Planifique um programa em Python com uma temática escolhida por si mas que contenha, pelo
+menos:
+
+• Uma Classe Abstrata: Despesas de um casa
+
+• Uma Classe Derivada: Renda, Combustíveis, Supermercado, etc
+
+• Permita criar e/ou ver e editar um ficheiro pelo utilizador: O utilizador insere as quantias
+
+• Realize um cálculo: o programa soma as despesas e mostra o resultado.
+
+• Uma exceção para que o programa não bloqueie caso o utilizador insira mal um dado:
