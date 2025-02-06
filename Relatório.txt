@@ -1,0 +1,10 @@
+Relatório relativo á tarefa final.
+
+O programa chama-se "Despesas mensais".
+Este código foi criado com o intuito de ter um registo mensal das principais despesas domésticas.
+Permite ao utilizador inserir, visualizar, calcular o total e guardar mensalmente as despesas.
+Tem uma interface simples para que qualquer pessoa possa utilizar.
+Tenho sempre dificuldades em começar um programa. Com a planificação torna-se mais fácil mas mesmo assim tenho que ir ver exercícios anteriores e pedir ajuda online.
+Este trabalho serviu para aplicar tudo o que aprendemos até aqui e para ter noção do nível dos meus conhecimentos em Python.
+
+Helder Jerónimo
